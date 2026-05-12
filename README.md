@@ -1,6 +1,9 @@
-# AD Craft
+# AdCraft
 
-AD Craft is an ad-copy generation and evaluation system built around template retrieval, LLM generation, and human preference feedback.
+**Live demo:** https://adcraft.jnxyp.net
+
+
+AdCraft is an ad-copy generation and evaluation system built around template retrieval, LLM generation, and human preference feedback.
 
 It combines:
 - A Python/FastAPI backend for generation and evaluation APIs
